@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Epitech # the main title
 
-tagline: A dumping ground for my random stuff # it will display as the sub-title
+tagline: I am at least 50% Banana # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A dumping ground for the random stuff I come up with or encounter.
